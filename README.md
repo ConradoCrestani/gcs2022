@@ -8,8 +8,6 @@ Este é o meu primeiro repositório.
 
 -Lógica da computação
 
--Poo
+-Progamação orientado ao objeto
 
 -Algorítimo e estrutura de dados
-
--Engenharia de requisitos
